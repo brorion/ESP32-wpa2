@@ -1,0 +1,3 @@
+Hello! This is the basic config of NUS_STU
+
+
